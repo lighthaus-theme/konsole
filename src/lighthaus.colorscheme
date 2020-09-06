@@ -1,0 +1,87 @@
+# Lighthaus Color theme for Konsole
+# GIT: https://github.com/lighthaus-theme/konsole
+# Author: Adhiraj Sirohi (https://github.com/brutuski)
+#         Vasundhara Sharma (https://github.com/vasundhasauras)
+
+# Copyright © 2020-Present Lighthaus Theme
+# Copyright © 2020-Present Adhiraj Sirohi
+# Copyright © 2020-Present Vasundhara Sharma
+
+
+# --- General Options ---
+
+[General]
+Description=Lighthaus
+Opacity=1
+
+# --- Special Colors ---
+[Background]
+Color=24,25,30
+
+[BackgroundIntense]
+Color=24,35,30
+
+[Foreground]
+Color=255,238,121
+
+[ForegroundIntense]
+Color=255,238,121
+Bold=true
+
+# --- Standard Colors ---
+
+# BLACK
+[Color0]
+Color=22,25,30
+
+[Color0Intense]
+Color=33,37,45
+
+# RED
+[Color1]
+Color=252,41,41
+
+[Color1Intense]
+Color=255,80,80
+
+# GREEN
+[Color2]
+Color=68,178,115
+
+[Color2Intense]
+Color=80,193,110
+
+# ORANGE
+[Color3]
+Color=226,86,0
+
+[Color3Intense]
+Color=237,114,46
+
+# BLUE
+[Color4]
+Color=29,145,139
+
+[Color4Intense]
+Color=71,168,161
+
+# PURPLE
+[Color5]
+Color=209,107,183
+
+[Color5Intense]
+Color=214,142,178
+
+# CYAN
+[Color6]
+Color=0,191,164
+
+[Color6Intense]
+Color=90,209,170
+
+# WHITE
+[Color7]
+Color=204,204,204
+
+[Color7Intense]
+Color=255,250,222
